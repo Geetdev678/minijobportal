@@ -18,7 +18,7 @@ services:
       - key: CLIENT_ORIGIN
         value: https://your-frontend-site.onrender.com
 
-  - type: static_site
+  - type: static
     name: mini-job-portal-frontend
     plan: starter
     branch: master
