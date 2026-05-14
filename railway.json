@@ -1,9 +1,9 @@
-﻿{
+{
+  "$schema": "https://railway.com/railway.schema.json",
   "build": {
     "builder": "RAILPACK"
   },
   "deploy": {
-    "rootDirectory": "server",
     "startCommand": "npm start"
   }
 }
